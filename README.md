@@ -33,6 +33,7 @@ provided me the msot documentation, which is part of the reason I picked them:
 	- [Configuring Logback (and the `logback.xml` file)](http://logback.qos.ch/manual/configuration.html)
   - [Maven](http://maven.apache.org)
 	- [Maven Filtering](http://maven.apache.org/plugins/maven-resources-plugin/examples/filter.html)
+	- [Maven AppAssembler plugin](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/) (for generating `.bat` and `sh` script-runnable projects)
   - [JCommander](http://jcommander.org)
   - [Google Guice](http://code.google.com/p/google-guice/wiki/GettingStarted)
   - [Google Guava](http://code.google.com/p/guava-libraries/)
