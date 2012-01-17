@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<executable.name>template</executable.name>
-		<program.main.class>klauer.cli.java_batch_template.App</program.main.class>
+		<program.main.class>klauer.cli.App</program.main.class>
 	</properties>
 
 	<dependencies>
@@ -31,7 +31,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>11.0</version>
+			<version>11.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
